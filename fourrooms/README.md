@@ -1,3 +1,7 @@
+**Update** : The simulator code contains an error, causing the agent to skip over two transitions under the effect of a single action. The experimental setup therefore differs from the one intended (originally described in Sutton, Singh, Precup 2000). This problem does not affect the other experiments in ALE. We will be addressing this issue. Thanks to [cardwing](https://github.com/cardwing) and Da Tang for pointing out the mistake. 
+
+----
+
 From the paper:
 
 Pierre-Luc Bacon, Jean Harb, Doina Precup. "The Option-Critic Architecture". Thirthy-first AAAI Conference On Artificial Intelligence (AAAI), 2017.
